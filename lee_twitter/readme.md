@@ -14,3 +14,5 @@ This file contains tweets from Lee Jae Myung. (14th president of South Korea) Sp
 | link | String | Contains the original url of the post. |
 | username | Integer | Contains post id * |
 | tweet_datetime | Date Time | Date Time object in the format: yyyy-MM-dd HH:mm:ss
+
+\* *To be honest, this is a guess. I forgot to document this, but feel free to check the Xcavator page.*
