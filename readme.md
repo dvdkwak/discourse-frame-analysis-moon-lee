@@ -8,9 +8,10 @@ This project contains all primary material used to conduct a research in framing
 
 ## Content
 
-- 🔹 Orange Data Mining Work Flow
-- 🔹 Lee Twitter file (Duplicates removed)
-- 🔹 Remove Duplicates Script
+- [🔹 Orange Data Mining Work Flow](./odm/reamde.md)
+- [🔹 Lee Twitter file (Duplicates removed)](./lee_twitter/readme.md)
+- [🔹 Remove Duplicates Script](./scripts/readme.md)
+- [🔹 Framing Results](./results_framing.md)
 
 ---
 
